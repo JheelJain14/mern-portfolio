@@ -77,7 +77,7 @@ function Portfolio() {
     ],
   };
 
-const projects = [
+  const projects = [
     {
       title: "College LMS Dashboard",
       description:
@@ -355,7 +355,7 @@ const projects = [
             </a>
 
             <a
-              href="https://linkedin.com/"
+              href="https://www.linkedin.com/in/jheel-jain-a14913357/"
               target="_blank"
               rel="noreferrer"
               className="social-icon-btn"
@@ -366,7 +366,7 @@ const projects = [
             </a>
 
             <a
-              href="mailto:jheeljain@example.com"
+              href="mailto:jainjheel1406@gmail.com"
               className="social-icon-btn"
               title="Send Email"
               aria-label="Email"
