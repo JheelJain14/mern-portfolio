@@ -1,0 +1,23 @@
+{
+  "name": "jheel-jain-mern-portfolio",
+  "version": "1.0.0",
+  "description": "Complete MERN Stack Portfolio for Jheel Jain - Computer Science Engineering Student & Aspiring Full Stack Developer",
+  "scripts": {
+    "client": "npm --prefix client run dev",
+    "client:build": "npm --prefix client run build",
+    "server": "npm --prefix server run dev",
+    "server:start": "npm --prefix server start",
+    "install:all": "npm --prefix client install && npm --prefix server install"
+  },
+  "keywords": [
+    "mern",
+    "portfolio",
+    "react",
+    "vite",
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "author": "Jheel Jain",
+  "license": "ISC"
+}

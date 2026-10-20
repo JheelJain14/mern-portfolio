@@ -1,0 +1,29 @@
+{\rtf1\ansi\deff0
+{\fonttbl{\f0\fswiss\fcharset0 Helvetica;}{\f1\froman\fcharset0 Times;}}
+{\colortbl;\red15\green23\blue42;\red37\green99\blue235;\red100\green116\blue139;}
+\fs32\b JHEEL JAIN\b0\fs22\par
+\cf2\fs24 Computer Science Engineering Student | Aspiring Full Stack Developer\cf0\fs20\par
+\cf3 Location: India | Education: B.Tech CSE (2024 - Present)\cf0\par
+\line\par
+\b [NOTICE / PLACEHOLDER]\b0\par
+This is a placeholder resume file created by the portfolio generator.\par
+Please replace this file with your actual resume document at:\par
+\cf2 client/public/cv/Jheel_Jain_Resume.docx\cf0\par
+\line\par
+\b Core Skills:\b0\par
+- Frontend: HTML, CSS, JavaScript, React.js, Next.js, TypeScript, Tailwind CSS\par
+- Backend: Node.js, Express.js\par
+- Database: MongoDB, MySQL\par
+- Tools & Technologies: Git, GitHub, VS Code\par
+\line\par
+\b Featured Projects:\b0\par
+1. College LMS Dashboard (React.js, Next.js, TypeScript, MongoDB)\par
+2. Transport Management System (HTML, CSS, JavaScript, Node.js, MySQL)\par
+3. Female Unemployment Analysis (Python, Pandas, Data Analysis)\par
+\line\par
+\b Achievements & Leadership:\b0\par
+- HackJKLU 2025 - Coordinator\par
+- Spardha - Inter College Sports Event\par
+- Sabrang 2024 - Coordinator\par
+- Sabrang 2025 - Coordinator\par
+}
