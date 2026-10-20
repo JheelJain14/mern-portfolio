@@ -366,7 +366,9 @@ function Portfolio() {
             </a>
 
             <a
-              href="mailto:jainjheel1406@gmail.com"
+              href="https://mail.google.com/mail/?view=cm&fs=1&to=jainjheel1406@gmail.com"
+              target="_blank"
+              rel="noreferrer"
               className="social-icon-btn"
               title="Send Email"
               aria-label="Email"
@@ -946,7 +948,7 @@ function Portfolio() {
           </p>
         </div>
       </footer>
-    </div>
+    </div >
   );
 }
 
