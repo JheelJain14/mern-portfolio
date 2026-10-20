@@ -174,13 +174,16 @@ function Portfolio() {
 
     try {
       // Send message to the backend endpoint
-      const response = await fetch("/api/contact", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify(formData),
-      });
+      const response = await fetch(
+        `${import.meta.env.VITE_API_URL}/api/contact`,
+        {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify(formData),
+        }
+      );
 
       const data = await response.json();
 
@@ -188,7 +191,9 @@ function Portfolio() {
         setFormStatus({
           submitting: false,
           success: true,
-          message: data.message || "Thank you! Your message was received successfully.",
+          message:
+            data.message ||
+            "Thank you! Your message was received successfully.",
         });
         setFormData({ name: "", email: "", message: "" });
       } else {
